@@ -9,4 +9,4 @@ A basic auto-mod discord bot open-src<br />
 
 
 ATTENTION: SINCE September 5th 2022 NEWERS VERSIONS ARE NOT PUBLIC ANYMORE.<br/>
-No support given for this, only the setup, changes = no support, thanks!
+No support given for this, thanks!
